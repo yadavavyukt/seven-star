@@ -1,3 +1,15 @@
 p {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+body {
+  background-image: url("BG.JPG");
+  
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
